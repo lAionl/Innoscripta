@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PizzaPiece 1`] = `
+<div
+  className="card border-primary mb-3 mt-3 ml-3 mr-3"
+>
+  <img
+    className="card-img-top"
+    src="http://www.ww.ww"
+    style={
+      Object {
+        "height": "160px",
+        "width": "180px",
+      }
+    }
+  />
+  <div
+    className="card-body"
+  >
+    <h5
+      className="card-title"
+    >
+      Mamma Mia
+    </h5>
+    <p
+      className="card-text"
+    >
+      2 $
+    </p>
+    <p
+      className="card-text"
+    >
+      Some text about composition
+    </p>
+    <bitton
+      className="btn btn-primary"
+    >
+      Buy
+    </bitton>
+  </div>
+</div>
+`;

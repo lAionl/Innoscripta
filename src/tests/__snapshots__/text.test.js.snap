@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextComponent h1 - Head with css-class "head-h1" 1`] = `
+<h1
+  className="head-h1"
+>
+  Head
+</h1>
+`;
+
+exports[`TextComponent some text in <p> without css-classes 1`] = `
+<p>
+  Some text in tag
+</p>
+`;
