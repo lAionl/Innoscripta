@@ -7,6 +7,9 @@ module.exports = {
     path: path.join(__dirname, '/dist'),
     filename: 'index-bundle.js',
   },
+  devServer: {
+    host: '0.0.0.0'
+  },
   module: {
     rules: [
       {
